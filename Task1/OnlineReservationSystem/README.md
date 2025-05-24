@@ -49,7 +49,7 @@ OIBSIP/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/OIBSIP.git
+git clone https://github.com/Likuna06/OIBSIP.git
 cd OIBSIP/TASK1/OnlineReservationSystem
 ```
 
@@ -91,7 +91,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-- **Satya Prakash** — [GitHub](https://github.com/SatyaPrakash252)
+- **Likuna Swain** — [GitHub](https://github.com/Likuna06)
 
 ---
 
