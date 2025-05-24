@@ -8,7 +8,7 @@ This project is a **Java Swing-based Online Examination System** with **MySQL** 
 
 ```
 OIBSIP/
-└── TASK2/
+└── TASK4/
     └── OnlineExaminationSystem/
         ├── src/
         │   └── OnlineExamSystem.java
@@ -46,8 +46,8 @@ OIBSIP/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/OIBSIP.git
-cd OIBSIP/TASK2/OnlineExaminationSystem
+git clone https://github.com/Likuna06/OIBSIP.git
+cd OIBSIP/TASK4/OnlineExaminationSystem
 ```
 
 ### 2. Import SQL Schema
@@ -128,7 +128,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-- **[Your Name]** — [GitHub](https://github.com/yourusername)
+- **LIKUNA SWAIN** — [Likuna06](https://github.com/Likuna06)
 
 ---
 
