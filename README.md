@@ -21,7 +21,7 @@ A Java-based desktop application to:
 
 ---
 
-### 🔹 TASK 2: Online Examination System
+### 🔹 TASK 4: Online Examination System
 
 An online exam portal built in Java Swing with:
 - User registration and login
@@ -30,7 +30,7 @@ An online exam portal built in Java Swing with:
 - Result analysis with correctness feedback
 - MySQL backend for user/question management
 
-🔗 [View Task 2](./TASK2/OnlineExaminationSystem)
+🔗 [View Task 4](./TASK4/OnlineExaminationSystem)
 
 ---
 
@@ -49,7 +49,7 @@ An online exam portal built in Java Swing with:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/<your-username>/OIBSIP.git
+git clone https://github.com/Likuna06/OIBSIP.git
 ```
 
 2. Follow the setup instructions provided in each task’s individual `README.md` file.
@@ -65,8 +65,8 @@ These projects were developed under their internship program to gain hands-on ex
 
 ## 👤 Author
 
-**[Your Name]**  
-GitHub: [@yourusername](https://github.com/yourusername)
+**LIKUNA SWAIN**  
+GitHub: [Likuna06](https://github.com/Likuna06)
 
 ---
 
